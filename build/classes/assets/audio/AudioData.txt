@@ -1,0 +1,6 @@
+#File for listing all audio files
+explosion explosion.wav
+fire fire.wav
+respawn respawn.wav
+alienfire alienfire.wav
+photonbomb photonbomb.wav

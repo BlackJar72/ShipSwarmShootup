@@ -1,4 +1,4 @@
-# Ship Swarm Shootup
+# Ship Swarm Shoot-Up
 
 This is a fairly simple arcade-style space shooter in the style of the early '80's but with original game play (specifically ai mechanics) and assets.  The game binaries are available at:
 https://jaredbgreat.itch.io/ship-swarm-shoot-up
